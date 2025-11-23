@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WebTasks//Demo//EN
+BEGIN:VTODO
+UID:demo-todo-3@webtasks.org
+DTSTAMP:20251123T100000Z
+CREATED:20251123T100000Z
+SUMMARY:Mark tasks complete
+DESCRIPTION:Click the checkbox to mark a task as completed. Completed tasks move to the bottom.
+STATUS:COMPLETED
+COMPLETED:20251123T120000Z
+PRIORITY:9
+END:VTODO
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WebTasks//Demo//EN
+BEGIN:VTODO
+UID:demo-todo-4@webtasks.org
+DTSTAMP:20251123T100000Z
+CREATED:20251123T100000Z
+SUMMARY:Connect your own CalDAV server
+DESCRIPTION:WebTasks works with any CalDAV server like Radicale, Nextcloud, Fastmail, or iCloud.
+STATUS:NEEDS-ACTION
+PRIORITY:3
+END:VTODO
+END:VCALENDAR

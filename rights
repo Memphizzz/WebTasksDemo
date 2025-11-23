@@ -1,0 +1,11 @@
+# Allow users to access their own collections
+[owner-only]
+user = .+
+collection = {user}(/.*)?
+permissions = RrWw
+
+# Allow discovery at root
+[root]
+user = .+
+collection =
+permissions = R
